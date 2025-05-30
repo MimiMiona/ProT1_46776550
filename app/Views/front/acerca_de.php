@@ -4,8 +4,8 @@
         <p class="lead">El mejor lugar para degustar cupcakes</p>
     </div>
 
-    <div class="row align-items-center mb-5">
-        <div class="col-lg-6 mb-4 mb-lg-0">
+    <div class="row align-items-center mb-5 flex-column flex-lg-row">
+        <div class="col-lg-6 order-2 order-lg-1">
             <h2 class="h4">¿Cómo funciona nuestra tienda?</h2>
             <p>
                 🔎Comprar en nuestro negocio es muy fácil. Simplemente seleccione su producto favorito,
@@ -13,7 +13,7 @@
                 y reciba su pedido directamente en u hogar. 
             </p>
         </div>
-        <div class="col-lg-6">
+        <div class="col-lg-6 order-1 order-lg-2 mb-4 mb-lg-0 text-center">
             <img src="assets\img\comprar.gif" alt="Compras" class="img-fluid rounded">
         </div>
     </div>
@@ -35,7 +35,7 @@
         </div>
     </div>
 
-    <div class="row align-items-center mb-5">
+    <div class="row align-items-center mb-5 flex-column flex-lg-row-reverse">
         <div class="col-lg-6 mb-4 mb-lg-0">
             <h2 class="h4">¿Por qué hacemos esto?</h2>
             <p>

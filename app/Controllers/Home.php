@@ -29,4 +29,22 @@ class Home extends BaseController
         echo view('front/acerca_de', $data);
         echo view('front/footer_view', $data);
     }
+
+    public function registro()
+    {
+        $data['titulo'] = 'Registro';
+        echo view('front/head_view',$data);
+        echo view('front/nav_view', $data);
+        echo view('front/registro', $data);
+        echo view('front/footer_view', $data);
+    }
+
+    public function login()
+    {
+        $data['titulo'] = 'Login';
+        echo view('front/head_view',$data);
+        echo view('front/nav_view', $data);
+        echo view('front/login', $data);
+        echo view('front/footer_view', $data);
+    }
 }

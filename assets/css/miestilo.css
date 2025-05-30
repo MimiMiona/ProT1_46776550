@@ -128,9 +128,15 @@ section {
 }
 */
 
+.custom-register-card {
+    background-color: #d3aed4; 
+    color: #424242;
+    border: 1px solid #d3aed4;
+    border-radius: 10px;
+}
 .custom-footer {
     background-color: #774caf;
-    color: #fff;
+    color: #774caf;
     padding: 20px 0; 
 }
 

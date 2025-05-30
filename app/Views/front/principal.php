@@ -74,7 +74,7 @@
         </div>
         <div class="col-md-6 col-lg-4 d-flex justify-content-center mb-4">
             <div class="card" style="width: 14rem;">
-                <img class="card-img-top" src="assets/img/cupcakes_de_lemon_pie2.jpg" alt="Card image cap">
+                <img class="card-img-top" src="assets/img/cupcakes_de_lemon_pie2.jpg" alt="Lemon Pie">
                 <div class="card-body">
                     <h5 class="card-title">Lemon Pie</h5>
                     <p class="card-text">La opción más ácida para aquellos que se atreven, ¡elección interesante para probar!</p>
@@ -84,7 +84,7 @@
         </div>
         <div class="col-md-6 col-lg-4 d-flex justify-content-center mb-4">
             <div class="card" style="width: 14rem;">
-                <img class="card-img-top" src="assets/img/cupcakes_de_red_velvet2.jpg" alt="Card image cap">
+                <img class="card-img-top" src="assets/img/cupcakes_de_red_velvet2.jpg" alt="Red Velvet">
                 <div class="card-body">
                     <h5 class="card-title">Red Velvet</h5>
                     <p class="card-text">Un sabor elegante para cualquier ocasión</p>
@@ -94,7 +94,7 @@
         </div>
         <div class="col-md-6 col-lg-4 d-flex justify-content-center mb-4">
             <div class="card" style="width: 14rem;">
-                <img class="card-img-top" src="assets/img/cupcakes_de_tiramisu2.jpg" alt="Card image cap">
+                <img class="card-img-top" src="assets/img/cupcakes_de_tiramisu2.jpg" alt="Tiramisu">
                 <div class="card-body">
                     <h5 class="card-title">Tiramisu</h5>
                     <p class="card-text">El sabor de equilibrio entre lo amargo y lo dulce, amado por gran parte de la comunidad</p>
@@ -104,7 +104,7 @@
         </div>
         <div class="col-md-6 col-lg-4 d-flex justify-content-center mb-4">
             <div class="card" style="width: 14rem;">
-                <img class="card-img-top" src="assets/img/cupcakes_de_arandanos.jpg" alt="Card image cap">
+                <img class="card-img-top" src="assets/img/cupcakes_de_arandanos.jpg" alt="Arandonos">
                 <div class="card-body">
                     <h5 class="card-title">Arandanos</h5>
                     <p class="card-text">¡Una de nuestras opciones fit más buscadas!</p>
@@ -114,7 +114,7 @@
         </div>
         <div class="col-md-6 col-lg-4 d-flex justify-content-center mb-4">
             <div class="card" style="width: 14rem;">
-                <img class="card-img-top" src="assets/img/cupcakes_de_carrot_cake.jpg" alt="Card image cap">
+                <img class="card-img-top" src="assets/img/cupcakes_de_carrot_cake.jpg" alt="Carrot Cake">
                 <div class="card-body">
                     <h5 class="card-title">Carrot Cake</h5>
                     <p class="card-text">Elogiado plenamente por su esponjosidad y humedad</p>
@@ -124,7 +124,7 @@
         </div>
         <div class="col-md-6 col-lg-4 d-flex justify-content-center mb-4">
             <div class="card" style="width: 14rem;">
-                <img class="card-img-top" src="assets/img/cupcakes_de_lentejas.jpg" alt="Card image cap">
+                <img class="card-img-top" src="assets/img/cupcakes_de_lentejas.jpg" alt="Lentejas">
                 <div class="card-body">
                     <h5 class="card-title">Lentejas</h5>
                     <p class="card-text">Una opción salada para acompañar a cualquier almuerzo o cena</p>
@@ -134,7 +134,7 @@
         </div>
         <div class="col-md-6 col-lg-4 d-flex justify-content-center mb-4">
             <div class="card" style="width: 14rem;">
-                <img class="card-img-top" src="assets/img/cupcakes_de_acelga.jpg" alt="Card image cap">
+                <img class="card-img-top" src="assets/img/cupcakes_de_acelga.jpg" alt="Acelga">
                 <div class="card-body">
                     <h5 class="card-title">Acelga</h5>
                     <p class="card-text">Otra de nuestras opciones fit, que nos acompaña del lado salado</p>

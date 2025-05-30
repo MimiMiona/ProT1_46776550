@@ -16,6 +16,12 @@
                         <li class="nav-item">
                             <a class="nav-link active nav_color" href="<?= base_url('quienes_somos') ?>">Nosotros</a>
                         </li>
+                        <li class="nav-item">
+                            <a class="nav-link active nav_color" href="<?= base_url('registro') ?>">Registro</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link active nav_color" href="<?= base_url('login') ?>">Login</a>
+                        </li>
                         <form class="d-flex" role="search">
                             <input class="form-control me-2 custom-search-input" type="search" placeholder="Search" aria-label="Search">
                             <button class="btn btn-outline-success custom-submit-btn" type="submit">Search</button>
