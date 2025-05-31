@@ -12,7 +12,7 @@ class Usuario_controller extends Controller{
 	$data['titulo']='Registro';
         echo view('front/head_view',$data);
         echo view('front/nav_view', $data);
-        echo view('back/usuario/registro', $data);
+        echo view('front/registro', $data);
         echo view('front/footer_view', $data);
 	}
 
@@ -31,7 +31,7 @@ class Usuario_controller extends Controller{
 			$data['titulo']='Registro';
 			echo view ('front/head_view', $data);
 			echo view ('front/nav_view');
-			echo view ('back/usuario/registro', ['validation' => $this->validator]);
+			echo view ('front/registro', ['validation' => $this->validator]);
 			echo view ('front/footer_view');
 
 		} else {
